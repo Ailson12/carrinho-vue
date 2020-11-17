@@ -1,21 +1,16 @@
-# vue-cart-emit-example
+# carrinho-vue
 
-## Project setup
+## Configurações do Projeto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compila os assets
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compila os assets e minifica para producão
 ```
 npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
 ```
